@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>William Movie Catalog</title>
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+background:#111;
+color:white;
+text-align:center;
+padding:60px;
+}
+
+h1{
+font-size:32px;
+margin-bottom:10px;
+}
+
+p{
+color:#aaa;
+}
+
+.container{
+margin-top:40px;
+}
+
+a{
+display:block;
+margin:15px auto;
+width:280px;
+padding:14px;
+background:#2e7dff;
+color:white;
+text-decoration:none;
+border-radius:6px;
+font-size:18px;
+}
+
+a:hover{
+background:#1f5ed6;
+}
+
+.code{
+margin-top:30px;
+color:#0f0;
+font-family:monospace;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>William Movie Catalog</h1>
+
+<p>Custom Stremio catalog generated from Google Sheets</p>
+
+<div class="container">
+
+<a href="manifest.json">Open Manifest</a>
+
+<a href="catalog/movie/sheetmovies.json">Open Catalog JSON</a>
+
+</div>
+
+<div class="code">
+Install in Stremio using:<br><br>
+https://YOURUSERNAME.github.io/stremio-movies/manifest.json
+</div>
+
+</body>
+</html>
