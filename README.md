@@ -66,7 +66,7 @@ Stremio automatically retrieves posters, descriptions, and other metadata using 
 Install the add-on using the manifest URL:
 
 ```
-https://YOURUSERNAME.github.io/stremio-movies/manifest.json
+https://meistersamples.github.io/stremio-movies/manifest.json
 ```
 
 Steps:
