@@ -1,1 +1,16 @@
-
+{
+  "id": "com.william.sheetmovies",
+  "version": "1.0.0",
+  "name": "William Movie List",
+  "description": "Movies from Google Sheet",
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "idPrefixes": ["tt"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "sheetmovies",
+      "name": "My Movies"
+    }
+  ]
+}
