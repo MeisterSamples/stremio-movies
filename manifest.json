@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
