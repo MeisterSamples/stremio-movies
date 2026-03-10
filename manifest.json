@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
@@ -15,8 +15,18 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "sheetmovies",
-      "name": "Cool Stuff"
+      "id": "sci-fi",
+      "name": "Sci-Fi"
+    },
+    {
+      "type": "movie",
+      "id": "mystery",
+      "name": "Mystery"
+    },
+    {
+      "type": "movie",
+      "id": "horror",
+      "name": "Horror"
     }
   ]
 }
