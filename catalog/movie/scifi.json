@@ -5,6 +5,12 @@
       "type": "movie",
       "name": "Interstellar",
       "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+    },
+    {
+      "id": "tt0062622",
+      "type": "movie",
+      "name": " A Space Odyssey",
+      "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg"
     }
   ]
 }
