@@ -11,6 +11,12 @@
       "type": "movie",
       "name": " A Space Odyssey",
       "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg"
+    },
+    {
+      "id": "tt0470752",
+      "type": "movie",
+      "name": "Ex Machina",
+      "poster": "https://image.tmdb.org/t/p/w500/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
     }
   ]
 }
