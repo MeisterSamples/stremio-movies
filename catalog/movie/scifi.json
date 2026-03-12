@@ -17,6 +17,42 @@
       "type": "movie",
       "name": "Ex Machina",
       "poster": "https://image.tmdb.org/t/p/w500/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
+    },
+    {
+      "id": "tt0074812",
+      "type": "movie",
+      "name": "Logan's Run",
+      "poster": "https://image.tmdb.org/t/p/w500/v3ILN8ROPcrNRJ8S7GH24JyihH8.jpg"
+    },
+    {
+      "id": "tt0206634",
+      "type": "movie",
+      "name": "Children of men",
+      "poster": "https://image.tmdb.org/t/p/w500/lQcXgb0fFzffnLV5WY0Q0X2WW7E.jpg"
+    },
+    {
+      "id": "tt2866360",
+      "type": "movie",
+      "name": "Coherence",
+      "poster": "https://image.tmdb.org/t/p/w500/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg"
+    },
+    {
+      "id": "tt0093870",
+      "type": "movie",
+      "name": "Robocop",
+      "poster": "https://image.tmdb.org/t/p/w500/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg"
+    },
+    {
+      "id": "tt0078748",
+      "type": "movie",
+      "name": "Alien",
+      "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
+    },
+    {
+      "id": "tt1136608",
+      "type": "movie",
+      "name": "District 9",
+      "poster": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg"
     }
   ]
 }
