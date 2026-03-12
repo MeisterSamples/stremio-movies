@@ -1,0 +1,52 @@
+{
+  "metas": [
+    {
+      "id": "tt0141842",
+      "type": "series",
+      "name": "The Sopranos",
+      "poster": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg"
+    },
+    {
+      "id": "tt0944947",
+      "type": "series",
+      "name": "Game of Thrones",
+      "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg"
+    },
+    {
+      "id": "tt3032476",
+      "type": "series",
+      "name": "Better Call Saul",
+      "poster": "https://image.tmdb.org/t/p/w500/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg"
+    },
+    {
+      "id": "tt0185906",
+      "type": "series",
+      "name": "Band of Brothers",
+      "poster": "https://image.tmdb.org/t/p/w500/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg"
+    },
+    {
+      "id": "tt0387764",
+      "type": "series",
+      "name": "Peep Show",
+      "poster": "https://image.tmdb.org/t/p/w500/6rdoQ0cTjsEQLIwEjhBV8U98oUm.jpg"
+    },
+    {
+      "id": "tt0185906",
+      "type": "series",
+      "name": "Band of Brothers",
+      "poster": "https://image.tmdb.org/t/p/w500/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg"
+    },
+    {
+      "id": "tt7049682",
+      "type": "series",
+      "name": "Watchmen",
+      "poster": "https://image.tmdb.org/t/p/w500/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg"
+    },
+    {
+      "id": "tt10048342",
+      "type": "series",
+      "name": "The Queen's Gambit",
+      "poster": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg"
+    }
+  ]
+}
