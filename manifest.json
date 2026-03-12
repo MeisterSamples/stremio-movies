@@ -1,13 +1,14 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
     "catalog"
   ],
   "types": [
-    "movie"
+    "movie",
+    "series"
   ],
   "idPrefixes": [
     "tt"
@@ -27,6 +28,11 @@
       "type": "movie",
       "id": "horror",
       "name": "Horror"
+    },
+    {
+      "type": "series",
+      "id": "tv_besttv",
+      "name": "TV Best TV"
     }
   ]
 }
