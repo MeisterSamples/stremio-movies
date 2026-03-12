@@ -7,12 +7,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg"
     },
     {
-      "id": "tt0944947",
-      "type": "series",
-      "name": "Game of Thrones",
-      "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg"
-    },
-    {
       "id": "tt3032476",
       "type": "series",
       "name": "Better Call Saul",
@@ -31,12 +25,6 @@
       "poster": "https://image.tmdb.org/t/p/w500/6rdoQ0cTjsEQLIwEjhBV8U98oUm.jpg"
     },
     {
-      "id": "tt0185906",
-      "type": "series",
-      "name": "Band of Brothers",
-      "poster": "https://image.tmdb.org/t/p/w500/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg"
-    },
-    {
       "id": "tt7049682",
       "type": "series",
       "name": "Watchmen",
@@ -47,6 +35,66 @@
       "type": "series",
       "name": "The Queen's Gambit",
       "poster": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg"
+    },
+    {
+      "id": "tt0105950",
+      "type": "series",
+      "name": "Beavis and Butt-Head",
+      "poster": "https://image.tmdb.org/t/p/w500/8BwmD9hMsfUHTAAsVephjJS8pIF.jpg"
+    },
+    {
+      "id": "tt0096697",
+      "type": "series",
+      "name": "The Simpsons",
+      "poster": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg"
+    },
+    {
+      "id": "tt0118375",
+      "type": "series",
+      "name": "King of the Hill",
+      "poster": "https://image.tmdb.org/t/p/w500/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg"
+    },
+    {
+      "id": "tt0106004",
+      "type": "series",
+      "name": "Frasier",
+      "poster": "https://image.tmdb.org/t/p/w500/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg"
+    },
+    {
+      "id": "tt0096708",
+      "type": "series",
+      "name": "Tales from the Crypt",
+      "poster": "https://image.tmdb.org/t/p/w500/265Gpw7wSwwMkUQlksot8B2chRg.jpg"
+    },
+    {
+      "id": "tt0106179",
+      "type": "series",
+      "name": "The X-Files",
+      "poster": "https://image.tmdb.org/t/p/w500/rcBx0p8h51LHceyhquYMxbspJQu.jpg"
+    },
+    {
+      "id": "tt0052520",
+      "type": "series",
+      "name": "The Twilight Zone",
+      "poster": "https://image.tmdb.org/t/p/w500/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg"
+    },
+    {
+      "id": "tt2085059",
+      "type": "series",
+      "name": "Black Mirror",
+      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg"
+    },
+    {
+      "id": "tt1844624",
+      "type": "series",
+      "name": "American Horror Story",
+      "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
+    },
+    {
+      "id": "tt6763664",
+      "type": "series",
+      "name": "The Haunting of Hill House",
+      "poster": "https://image.tmdb.org/t/p/w500/38PkhBGRQtmVx2drvPik3F42qHO.jpg"
     }
   ]
 }
