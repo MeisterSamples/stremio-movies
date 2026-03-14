@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
@@ -16,13 +16,13 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "scifi",
-      "name": "scifi"
+      "id": "action",
+      "name": "Action"
     },
     {
       "type": "movie",
-      "id": "action",
-      "name": "Action"
+      "id": "scifi",
+      "name": "scifi"
     },
     {
       "type": "movie",
