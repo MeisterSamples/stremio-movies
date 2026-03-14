@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
@@ -16,13 +16,13 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "adventure",
-      "name": "Adventure"
+      "id": "documentary",
+      "name": "Documentary"
     },
     {
       "type": "movie",
-      "id": "documentary",
-      "name": "Documentary"
+      "id": "adventure",
+      "name": "Adventure"
     },
     {
       "type": "movie",
