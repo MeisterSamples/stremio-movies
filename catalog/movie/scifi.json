@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt32490110",
+      "type": "movie",
+      "name": "Slanted",
+      "poster": "https://image.tmdb.org/t/p/w500/cr2SfN854IlEoZQBtIfpyC0zXR5.jpg"
+    },
+    {
       "id": "tt12299608",
       "type": "movie",
       "name": "Mickey 17",
