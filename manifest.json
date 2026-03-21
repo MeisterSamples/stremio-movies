@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.40",
+  "version": "1.0.41",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
@@ -14,6 +14,11 @@
     "tt"
   ],
   "catalogs": [
+    {
+      "type": "movie",
+      "id": "mystery",
+      "name": "Mystery"
+    },
     {
       "type": "movie",
       "id": "drama",
@@ -48,11 +53,6 @@
       "type": "movie",
       "id": "action",
       "name": "Action"
-    },
-    {
-      "type": "movie",
-      "id": "mystery",
-      "name": "Mystery"
     },
     {
       "type": "series",
