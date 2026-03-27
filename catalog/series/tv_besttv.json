@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt27507828",
+      "type": "series",
+      "name": "Fired on Mars",
+      "poster": "https://image.tmdb.org/t/p/w500/7x4EO1UOvat2V78WuC2CpAqxjH8.jpg"
+    },
+    {
       "id": "tt7472896",
       "type": "series",
       "name": "Mr Inbetween",
