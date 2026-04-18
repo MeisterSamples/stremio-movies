@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.49",
+  "version": "1.0.50",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
@@ -14,6 +14,11 @@
     "tt"
   ],
   "catalogs": [
+    {
+      "type": "movie",
+      "id": "horror",
+      "name": "Horror"
+    },
     {
       "type": "movie",
       "id": "action",
@@ -33,11 +38,6 @@
       "type": "movie",
       "id": "history",
       "name": "History"
-    },
-    {
-      "type": "movie",
-      "id": "horror",
-      "name": "Horror"
     },
     {
       "type": "movie",
