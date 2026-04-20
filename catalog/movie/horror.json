@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt0058279",
+      "type": "movie",
+      "name": "Kwaidan",
+      "poster": "https://image.tmdb.org/t/p/w500/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg"
+    },
+    {
       "id": "tt0113187",
       "type": "movie",
       "name": "Godzilla vs. Destoroyah",
