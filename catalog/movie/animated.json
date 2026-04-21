@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt0161113",
+      "type": "movie",
+      "name": "Blood Reign: Curse of the Yoma",
+      "poster": "https://image.tmdb.org/t/p/w500/hTRIgRFBVenBPDmEoiLPOcpPUq3.jpg"
+    },
+    {
       "id": "tt0185481",
       "type": "movie",
       "name": "Neo Tokyo",
