@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.53",
+  "version": "1.0.54",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
@@ -16,13 +16,13 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "horror",
-      "name": "Horror"
+      "id": "animated",
+      "name": "Animated"
     },
     {
       "type": "movie",
-      "id": "animated",
-      "name": "Animated"
+      "id": "horror",
+      "name": "Horror"
     },
     {
       "type": "movie",
