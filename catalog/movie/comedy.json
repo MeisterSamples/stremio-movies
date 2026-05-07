@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt0381707",
+      "type": "movie",
+      "name": "White Chicks",
+      "poster": "https://image.tmdb.org/t/p/w500/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg"
+    },
+    {
       "id": "tt1912398",
       "type": "movie",
       "name": "God Bless America",
