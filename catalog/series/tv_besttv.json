@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt6294706",
+      "type": "series",
+      "name": "The Chi",
+      "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg"
+    },
+    {
       "id": "tt10970762",
       "type": "series",
       "name": "The Testaments",
