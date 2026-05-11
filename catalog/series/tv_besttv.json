@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt2378794",
+      "type": "series",
+      "name": "Hello Ladies",
+      "poster": "https://image.tmdb.org/t/p/w500/2jUOzE8pcwn0bDGfbX7GtTqSqsT.jpg"
+    },
+    {
       "id": "tt13872480",
       "type": "series",
       "name": "Life After Life",
