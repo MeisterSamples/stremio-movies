@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt10155688",
+      "type": "series",
+      "name": "Mare of Easttown",
+      "poster": "https://image.tmdb.org/t/p/w500/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg"
+    },
+    {
       "id": "tt2378794",
       "type": "series",
       "name": "Hello Ladies",
