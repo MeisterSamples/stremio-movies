@@ -1,12 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt0500092",
-      "type": "series",
-      "name": "Serial Experiments Lain",
-      "poster": "https://image.tmdb.org/t/p/w500/93M6d0pAqVQySKrp43LfBYDTvZ.jpg"
-    },
-    {
       "id": "tt10155688",
       "type": "series",
       "name": "Mare of Easttown",
