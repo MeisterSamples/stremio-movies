@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt0433722",
+      "type": "series",
+      "name": "Paranoia Agent",
+      "poster": "https://image.tmdb.org/t/p/w500/cQ6YiBTUlsKGm2mWa7mE9eZnlS2.jpg"
+    },
+    {
       "id": "tt0500092",
       "type": "series",
       "name": "Serial Experiments Lain",
