@@ -1,16 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt0500092",
+      "type": "series",
+      "name": "Serial Experiments Lain",
+      "poster": "https://image.tmdb.org/t/p/w500/93M6d0pAqVQySKrp43LfBYDTvZ.jpg"
+    },
+    {
       "id": "tt10155688",
       "type": "series",
       "name": "Mare of Easttown",
       "poster": "https://image.tmdb.org/t/p/w500/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg"
-    },
-    {
-      "id": "tt2378794",
-      "type": "series",
-      "name": "Hello Ladies",
-      "poster": "https://image.tmdb.org/t/p/w500/2jUOzE8pcwn0bDGfbX7GtTqSqsT.jpg"
     },
     {
       "id": "tt13872480",
