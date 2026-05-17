@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt2379308",
+      "type": "series",
+      "name": "Psycho-Pass",
+      "poster": "https://image.tmdb.org/t/p/w500/uWnP6qTcc4imPJ9ZHaXlPQlcYnB.jpg"
+    },
+    {
       "id": "tt0433722",
       "type": "series",
       "name": "Paranoia Agent",
