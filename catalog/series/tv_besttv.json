@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt11041332",
+      "type": "series",
+      "name": "Yellowjackets",
+      "poster": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg"
+    },
+    {
       "id": "tt10155688",
       "type": "series",
       "name": "Mare of Easttown",
