@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt0088863",
+      "type": "series",
+      "name": "Bubblegum Crisis",
+      "poster": "https://image.tmdb.org/t/p/w500/rnF1zD3GP3L4DDoLIshUEH0JYHJ.jpg"
+    },
+    {
       "id": "tt2379308",
       "type": "series",
       "name": "Psycho-Pass",
