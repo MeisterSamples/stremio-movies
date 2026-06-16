@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt0220218",
+      "type": "series",
+      "name": "Cyber City Oedo 808",
+      "poster": "https://image.tmdb.org/t/p/w500/9TaiOqFMxVPEBGwpdRZbskRgCtY.jpg"
+    },
+    {
       "id": "tt0088863",
       "type": "series",
       "name": "Bubblegum Crisis",
