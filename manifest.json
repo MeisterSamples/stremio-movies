@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.68",
+  "version": "1.0.69",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
@@ -81,13 +81,13 @@
     },
     {
       "type": "series",
-      "id": "tv_besttv",
-      "name": "TV Best TV"
+      "id": "tv_anime",
+      "name": "TV Anime"
     },
     {
       "type": "series",
-      "id": "tv_anime",
-      "name": "TV Anime"
+      "id": "tv_besttv",
+      "name": "TV Best TV"
     }
   ]
 }
