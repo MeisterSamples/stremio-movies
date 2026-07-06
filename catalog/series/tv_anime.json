@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt0805960",
+      "type": "series",
+      "name": "SPEED GRAPHER",
+      "poster": "https://image.tmdb.org/t/p/w500/5OOEt14tCMakadSZDCwRA6yD4R6.jpg"
+    },
+    {
       "id": "tt0220218",
       "type": "series",
       "name": "Cyber City Oedo 808",
