@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt1183732",
+      "type": "movie",
+      "name": "Tokyo Gore Police",
+      "poster": "https://image.tmdb.org/t/p/w500/d1LqkFMhFO5lfV3uwEpwyTLxXgR.jpg"
+    },
+    {
       "id": "tt0058279",
       "type": "movie",
       "name": "Kwaidan",
