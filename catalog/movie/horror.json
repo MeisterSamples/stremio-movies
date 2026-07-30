@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt1772398",
+      "type": "movie",
+      "name": "The Strange Thing About the Johnsons",
+      "poster": "https://image.tmdb.org/t/p/w500/ac2GXs7rJ7eQBKcvjRA3VDSNxA4.jpg"
+    },
+    {
       "id": "tt1183732",
       "type": "movie",
       "name": "Tokyo Gore Police",
