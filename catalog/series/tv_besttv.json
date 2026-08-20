@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt7671070",
+      "type": "series",
+      "name": "Industry",
+      "poster": "https://image.tmdb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg"
+    },
+    {
       "id": "tt0135659",
       "type": "series",
       "name": "Storm of the Century",
