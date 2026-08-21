@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt0306414",
+      "type": "series",
+      "name": "The Wire",
+      "poster": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg"
+    },
+    {
       "id": "tt7671070",
       "type": "series",
       "name": "Industry",
