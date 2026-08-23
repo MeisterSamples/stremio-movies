@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt2017109",
+      "type": "series",
+      "name": "Banshee",
+      "poster": "https://image.tmdb.org/t/p/w500/5nXFiz8Rn8eezVjSTZBd7HmnF1G.jpg"
+    },
+    {
       "id": "tt0306414",
       "type": "series",
       "name": "The Wire",
