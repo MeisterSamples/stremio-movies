@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.83",
+  "version": "1.0.84",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
@@ -14,6 +14,11 @@
     "tt"
   ],
   "catalogs": [
+    {
+      "type": "movie",
+      "id": "martialarts",
+      "name": "Martial Arts"
+    },
     {
       "type": "movie",
       "id": "history",
@@ -73,11 +78,6 @@
       "type": "movie",
       "id": "documentary",
       "name": "Documentary"
-    },
-    {
-      "type": "movie",
-      "id": "martialarts",
-      "name": "Martial Arts"
     },
     {
       "type": "series",
