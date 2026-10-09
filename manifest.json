@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.86",
+  "version": "1.0.87",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
@@ -14,6 +14,11 @@
     "tt"
   ],
   "catalogs": [
+    {
+      "type": "movie",
+      "id": "action",
+      "name": "Action"
+    },
     {
       "type": "movie",
       "id": "comedy",
@@ -38,11 +43,6 @@
       "type": "movie",
       "id": "animated",
       "name": "Animated"
-    },
-    {
-      "type": "movie",
-      "id": "action",
-      "name": "Action"
     },
     {
       "type": "movie",
