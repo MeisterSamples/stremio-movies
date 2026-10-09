@@ -1,6 +1,6 @@
 {
   "id": "com.william.sheetmovies",
-  "version": "1.0.85",
+  "version": "1.0.86",
   "name": "William Movie List",
   "description": "Movies from Google Sheet",
   "resources": [
@@ -16,6 +16,11 @@
   "catalogs": [
     {
       "type": "movie",
+      "id": "comedy",
+      "name": "Comedy"
+    },
+    {
+      "type": "movie",
       "id": "martialarts",
       "name": "Martial Arts"
     },
@@ -28,11 +33,6 @@
       "type": "movie",
       "id": "horror",
       "name": "Horror"
-    },
-    {
-      "type": "movie",
-      "id": "comedy",
-      "name": "Comedy"
     },
     {
       "type": "movie",
