@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt11540908",
+      "type": "series",
+      "name": "Carrie",
+      "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg"
+    },
+    {
       "id": "tt35946742",
       "type": "series",
       "name": "Maximum Pleasure Guaranteed",
