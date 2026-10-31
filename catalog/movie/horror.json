@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt0055830",
+      "type": "movie",
+      "name": "Carnival of Souls",
+      "poster": "https://image.tmdb.org/t/p/w500/AdbQsFB8pS090l0NO3uBtLZy2zw.jpg"
+    },
+    {
       "id": "tt0073650",
       "type": "movie",
       "name": "Sal?, or the 120 Days of Sodom",
