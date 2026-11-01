@@ -1,6 +1,12 @@
 {
   "metas": [
     {
+      "id": "tt33043892",
+      "type": "series",
+      "name": "Dexter: Resurrection",
+      "poster": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg"
+    },
+    {
       "id": "tt20852220",
       "type": "series",
       "name": "One Cent Thief",
